@@ -18,3 +18,5 @@ Done.
   1) all registers
   2) register types
   3) register to register dependencies
+
+# Note: For Size Concern, we delete the APK file after processing, so kindly make a backup of the APK files before processing!
