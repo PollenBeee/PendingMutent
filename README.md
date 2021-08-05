@@ -10,7 +10,7 @@ Murax is the Binary Extractor that extracts the PendingIntent information from t
 
 # Execution:
 
-java -jar -Xmx4028m D:\pollen\banking\ 
+java -jar -Xmx4028m .\Murax.jar 'D:\pollen\banking'
 
 Done.
 
