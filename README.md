@@ -5,7 +5,7 @@ Murax is the Binary Extractor that extracts the PendingIntent information from t
 
 # Steps:
 
-  1)  Copy all the APK files to be analyzed into a Folder (for example: D:\pollen\banking\)
+  1)  Copy all the APK files to be analyzed into a Folder (for example: D:\pollen\analyze)
   2)  Copy the apktool.jar into the APK Folder created above 
 
 # Execution:
