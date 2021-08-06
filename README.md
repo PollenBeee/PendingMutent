@@ -23,4 +23,4 @@ Done.
   2) register types
   3) register to register dependencies
 
-# Note: For Size Concern, we delete the APK file after processing, so kindly make a backup of the APK files before processing!
+# Note: For Size Concern, we delete the APK file after processing, so we advise you to take a backup of the APK files before processing through Murax!
