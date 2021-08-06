@@ -18,9 +18,10 @@ java -jar -Xmx4028m .\Murax.jar 'D:\pollen\banking'
 
 Done.
 
-# Now you will get an Excel file with the following informations
+# Now you will get an Excel file with the following informations (You can find the sample files in the output folder.)
   1) all registers
   2) register types
   3) register to register dependencies
+
 
 # Note: For Disk Size Concern, Muarax deletes' the APK file after processing, so we advise you to take a backup of the APK files before processing through Murax!
