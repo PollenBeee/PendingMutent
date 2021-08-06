@@ -18,7 +18,7 @@ java -jar -Xmx4028m .\Murax.jar 'D:\pollen\banking'
 
 Done.
 
-# Now you will get Excel file with the following informations
+# Now you will get an Excel file with the following informations
   1) all registers
   2) register types
   3) register to register dependencies
